@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+  color: white;
+  font-family: arial, Sans-Serif;
+  padding-bottom: 500px;
+}
+.container {
+  width: 90%;
+  padding: 5px;
+  box-sizing: border-box;
+  border: 2px solid white;
+  margin: 10px auto;
+ }
+.container h1 {
+  font-size: 20px;
+  color: white;
+}
+h4 {
+  text-shadow: 5px 5px 10px deepskyblue;
+}
+p {
+  margin-top: 10px;
+}
+p a {
+  color: lightgreen;
+}
+.container .profil {
+  margin-left: 10px;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 10px;
+}
+.container .profil img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+.container .profil .bio h2 {
+  font-size: 15px;
+  margin-top: 10px;
+}
+.container .profil .bio p {
+  margin-top: -2px;
+}
+.container .profil .status {
+  display: flex;
+  padding-left: 20px;
+}
+.container .profil .status p {
+  font-size: 12px;
+}
+.container .profil .status .postingan, 
+.container .profil .status .pengikut, 
+.container .profil .status .mengikuti{
+  margin-right: 10px;
+  text-align: center;
+}
+.container .profil .status .postingan p,
+.container .profil .status .pengikut p,
+.container .profil .status .mengikuti p {
+  margin-top: -1px;
+}
+.container .setting {
+  display: flex;
+  margin: 5px 0;
+}
+.container .setting .editprofil {
+  text-align: center;
+  padding: 5px 0;
+  border: 2px solid #aaa;
+  width: 80%;
+  margin: 0 5px;
+}
+.container .setting .drop {
+  margin: 0 5px;
+  width: 10%;
+}
+.container .setting .drop select {
+  width: 100%;
+  height: 100%;
+  background: none;
+  color: white;
+  text-align: center;
+}
+.container .logo {
+  margin-top: -25px;
+      
+  display: flex;
+  justify-content: space-evenly;
+}
+.container .logo img {
+  width: 100px;
+  height: 100px;
+}
+.container .logo .logo1 {
+  margin-top: -3px;
+  opacity: .5;
+}
+.container .logo hr {
+  width: 50%;
+  margin-top: -10px;
+      
+}
+.container .garis {
+  display: flex;
+  justify-content: center;
+}
+.container .garis hr {
+  width: 40%;
+  margin: 0 10px;
+}
+.container .garis .dua {
+  opacity: .5;
+}
+.container .galerry {
+  margin: 10px 0;
+}
+.container .galerry img {
+  width: 90px;
+  height: 90px;
+}

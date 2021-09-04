@@ -4,6 +4,10 @@
 # CATATAN
 ubah foto sesuai keinginan kalian dan kalian bisa edit jika,
 kalian merasa kurang puas dengan hasilnya.
-Dan jangan lupa untuk beri stars pada repository ini!
 
+# PERMASALAHAN
+- Mungkin cara ini belum efektif, dan kalian bisa kreasikan sebaik mungkin.
+
+
+Dan jangan lupa untuk beri stars pada repository ini!
 terimakasih.
